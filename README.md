@@ -20,6 +20,7 @@ With a knack for continuous learning and improvement, I'm always ready to take u
 
 ## 🛠 Skills
 - Java
+- Typescript
 - JavaScript
 - ReactJS
 - Express.js
