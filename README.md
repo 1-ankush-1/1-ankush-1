@@ -22,6 +22,8 @@ With a knack for continuous learning and improvement, I'm always ready to take u
 - Java
 - Typescript
 - JavaScript
+- VueJS
+- NuxtJS
 - ReactJS
 - Express.js
 - Node.js
